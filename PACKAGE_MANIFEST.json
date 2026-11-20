@@ -1,0 +1,124 @@
+{
+  "package": "Jiyu Word Garden Family Login v1",
+  "base_site_version": 3,
+  "base_commit": "ecb7a611d7688be19e13bc0e2a532bb4292b993a",
+  "deployed": false,
+  "account_password_format": "server-only Werkzeug scrypt hash",
+  "files": [
+    {
+      "path": "dist/app.js",
+      "sha256": "0520141493cd234a330633329d7cef50092d6c938ccbf890d325f6e776f6e6ef",
+      "bytes": 42389
+    },
+    {
+      "path": "dist/atlas-part2-a.png",
+      "sha256": "993a44b44d837b61641ac58644d40b9ae17b0f502b0220f7f43ea7bd1608e835",
+      "bytes": 3727013
+    },
+    {
+      "path": "dist/atlas-part2-b.png",
+      "sha256": "f9cdfe4a2f1ba60afaf30f39a7e019e07cfdcee3f701bdde65b4daf89093cb21",
+      "bytes": 3659860
+    },
+    {
+      "path": "dist/atlas.png",
+      "sha256": "a3c3b5df99d4eb81f726df1749a650bbabe3ba85f68401c5af20913b730f05f0",
+      "bytes": 3606434
+    },
+    {
+      "path": "dist/data-part2.js",
+      "sha256": "9164c64db626a7131850855f294ee4669634a925eedbe66686ae74193cc46f26",
+      "bytes": 19807
+    },
+    {
+      "path": "dist/data.js",
+      "sha256": "e752ba5273b5f0006b434e8237f7048b2c568c16f141ad9a9326fdc23d92137a",
+      "bytes": 7112
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "855bae6b2fedf7caa119255fc95985db741ac84902fa28dac39de2047fafc86f",
+      "bytes": 663
+    },
+    {
+      "path": "dist/learning.js",
+      "sha256": "c5176f32f165227b7ef0f2cff18ac7c30c2fb9096e2d9fedb84acf1160730314",
+      "bytes": 5328
+    },
+    {
+      "path": "dist/motion.js",
+      "sha256": "de01f3c99aedf42aac037f4d913e95c102d6688201c99bfb0353585ac321da43",
+      "bytes": 4455
+    },
+    {
+      "path": "dist/server-sync.js",
+      "sha256": "c53d544d4988e26afdc6a784940a884c643d9771d02ef16a2eb1374b23529489",
+      "bytes": 8120
+    },
+    {
+      "path": "dist/style.css",
+      "sha256": "4744767344638a50f5859e24e2274191b321ea8e79cd9f647ae178484dd8ad5f",
+      "bytes": 23308
+    },
+    {
+      "path": "templates/login.html",
+      "sha256": "5e74ecb394ba283defb6338cf47d80125f879c278bbc05889e05366cbdd5a3ff",
+      "bytes": 1833
+    },
+    {
+      "path": "tests/learning.test.mjs",
+      "sha256": "e67fc7fe59c7eee5e179a1c56f218cae14b582d13db71b69cbd0d46da4b3efa3",
+      "bytes": 6433
+    },
+    {
+      "path": "tests/sync.test.mjs",
+      "sha256": "c562597c123976732a3cca483e8fb1925b88126f5b5991f4b90e20193aa749de",
+      "bytes": 3937
+    },
+    {
+      "path": "tests/test_server.py",
+      "sha256": "4a78da6c6466ff78693c4b372ae3af99c8e4ab30cc037d820a600f39737f0062",
+      "bytes": 7671
+    },
+    {
+      "path": "server.py",
+      "sha256": "cf56411e7818fb6317e816a6a9505b7d101dec739d9357a106ec5e82ad5839ac",
+      "bytes": 13716
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "98d5f533ecc8c432be7b9850f7cf9f0d65f5fb7af690078f0b403e73b416f5e2",
+      "bytes": 142
+    },
+    {
+      "path": "Dockerfile",
+      "sha256": "b01ce1c60691e4b6d5071dd40537debf8036e171686b78e471348dd5fddd9f04",
+      "bytes": 463
+    },
+    {
+      "path": "compose.yaml",
+      "sha256": "864b1a0c59e2c32768f7bc30878a812c7c2aba1a0928eb67a859c1f1f0e6c0fa",
+      "bytes": 250
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "542990abe00faa59e280455fcb2c925d80d447a33b2871d1d53815aaf01799a3",
+      "bytes": 103
+    },
+    {
+      "path": ".dockerignore",
+      "sha256": "1f38098f319122473363920131616d0637048bd180000b26bbdcdd8a2f93f2bd",
+      "bytes": 43
+    },
+    {
+      "path": ".env.example",
+      "sha256": "5a3db2adce1f1a8abd5dd4ecdd067d2fdc98f7726978595a91cdc7c929d609ac",
+      "bytes": 347
+    },
+    {
+      "path": "README.md",
+      "sha256": "066a413b11322140d47fa5454ffbeba8b54948131f87b76de78241a375bd1010",
+      "bytes": 8345
+    }
+  ]
+}
